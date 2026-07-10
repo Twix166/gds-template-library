@@ -2,15 +2,15 @@
 
 | Template name | Lifecycle phase | Domain/category | Purpose | Primary GDS Service Standard relevance | Status |
 | --- | --- | --- | --- | --- | --- |
-| Problem statement | Discovery | Business analysis | Define the service problem, context and intended outcomes. | Understand users and their needs; Solve a whole problem for users | placeholder |
-| User needs catalogue | Discovery | User research | Record user groups, needs, evidence and confidence levels. | Understand users and their needs | placeholder |
-| Stakeholder map | Discovery | Governance | Identify stakeholders, interests, influence and engagement needs. | Solve a whole problem for users; Have a multidisciplinary team | placeholder |
-| Service blueprint current state | Discovery | Service design | Map front-stage and back-stage activity in the current service. | Provide a joined-up experience | placeholder |
-| Current state journey map | Discovery | Service design | Capture current user journeys, pain points and opportunities. | Make the service simple to use | placeholder |
-| Discovery findings report | Discovery | Product management | Summarise findings, evidence, recommendations and next steps. | Understand users and their needs; Define success measures | placeholder |
-| Assumptions log | Discovery | Delivery management | Track assumptions, evidence gaps and validation plans. | Iterate and improve frequently | placeholder |
-| Options assessment | Discovery | Product management | Compare options against user, policy, technical and delivery criteria. | Solve a whole problem for users; Choose appropriate tools and technology | placeholder |
-| Discovery assessment evidence pack | Discovery | Assessment preparation | Bring together evidence for discovery assessment or internal review. | Understand users and their needs; Have a multidisciplinary team | placeholder |
+| Problem statement | Discovery | Business analysis | Define the service problem, context and intended outcomes. | Understand users and their needs; Solve a whole problem for users | draft |
+| User needs catalogue | Discovery | User research | Record user groups, needs, evidence and confidence levels. | Understand users and their needs | draft |
+| Stakeholder map | Discovery | Governance | Identify stakeholders, interests, influence and engagement needs. | Solve a whole problem for users; Have a multidisciplinary team | draft |
+| Service blueprint current state | Discovery | Service design | Map front-stage and back-stage activity in the current service. | Provide a joined-up experience | draft |
+| Current state journey map | Discovery | Service design | Capture current user journeys, pain points and opportunities. | Make the service simple to use | draft |
+| Discovery findings report | Discovery | Product management | Summarise findings, evidence, recommendations and next steps. | Understand users and their needs; Define success measures | draft |
+| Assumptions log | Discovery | Delivery management | Track assumptions, evidence gaps and validation plans. | Iterate and improve frequently | draft |
+| Options assessment | Discovery | Product management | Compare options against user, policy, technical and delivery criteria. | Solve a whole problem for users; Choose appropriate tools and technology | draft |
+| Discovery assessment evidence pack | Discovery | Assessment preparation | Bring together evidence for discovery assessment or internal review. | Understand users and their needs; Have a multidisciplinary team | draft |
 | Alpha plan | Alpha | Delivery management | Plan alpha objectives, scope, activities and governance. | Use agile ways of working | placeholder |
 | Prototype description | Alpha | Service design | Describe prototype scope, assumptions and learning goals. | Make the service simple to use; Iterate and improve frequently | placeholder |
 | User research plan | Alpha | User research | Plan research questions, participants, methods and ethics. | Understand users and their needs | placeholder |
@@ -46,4 +46,3 @@
 | Benefits register | Cross-cutting | Product management | Track expected benefits, owners, measures and evidence. | Define success measures | placeholder |
 | Data dictionary | Cross-cutting | Architecture | Define data entities, fields, ownership and sensitivity. | Use and contribute to open standards | placeholder |
 | Traceability matrix | Cross-cutting | Business analysis | Link needs, requirements, design, tests and evidence. | Iterate and improve frequently | placeholder |
-

@@ -2,12 +2,12 @@
 title: Problem statement
 phase: Discovery
 domain: Business Analysis
-status: placeholder
+status: draft
 related_service_standard_points:
   - Understand users and their needs
   - Solve a whole problem for users
 owner_role: Business Analyst
-last_updated: 2026-07-08
+last_updated: 2026-07-10
 ---
 
 # Purpose
@@ -27,7 +27,65 @@ Use during Discovery and revisit whenever the understanding of the problem chang
 
 # Template
 
-Add the problem statement, affected users, scope, constraints, evidence and open questions.
+Copy this structure and replace the prompts with service-specific content.
+
+## 1. Service context
+
+| Field | Response |
+| --- | --- |
+| Service or policy area |  |
+| Current brief or request |  |
+| Sponsor or accountable owner |  |
+| Discovery team |  |
+| Date and version |  |
+
+## 2. Reframed problem
+
+Write the problem in one or two plain English sentences. Avoid naming a preferred solution.
+
+| Field | Response |
+| --- | --- |
+| Current situation |  |
+| Problem users experience |  |
+| Impact on users |  |
+| Impact on government or operations |  |
+| Reframed problem statement |  |
+
+## 3. Users and affected groups
+
+| User or group | What they are trying to do | Current pain point | Evidence link | Confidence |
+| --- | --- | --- | --- | --- |
+|  |  |  |  | Low / Medium / High |
+
+## 4. Outcomes
+
+| Outcome type | Outcome | How we might measure it |
+| --- | --- | --- |
+| User outcome |  |  |
+| Operational outcome |  |  |
+| Policy outcome |  |  |
+
+## 5. Scope and boundaries
+
+| In scope | Out of scope | Reason |
+| --- | --- | --- |
+|  |  |  |
+
+## 6. Evidence, assumptions and questions
+
+| Type | Statement | Source or owner | Action |
+| --- | --- | --- | --- |
+| Evidence |  |  |  |
+| Assumption |  |  |  |
+| Open question |  |  |  |
+
+## 7. Decision needed at the end of Discovery
+
+State the decision this artefact should support, such as whether to proceed to Alpha, stop, re-scope, or pass findings to another team.
+
+## Worked example
+
+See [problem-and-user-needs-worked-example.md](../../examples/discovery/problem-and-user-needs-worked-example.md).
 
 # Quality checklist
 
@@ -41,3 +99,8 @@ Add the problem statement, affected users, scope, constraints, evidence and open
 - Assumptions log
 - Options assessment
 
+# Reference examples and sources
+
+- GOV.UK Service Manual, [How the discovery phase works](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works), credited to the Agile delivery community and published under the Open Government Licence v3.0.
+- Kate Tarling and Ayesha Moarif, [The actual problems to be solved](https://www.slideshare.net/katetarling/the-actual-problems-to-be-solved), a public problem-framing deck referenced by the GOV.UK Service Manual.
+- Home Office Digital, Anne Wicks, [Deciding not to build a new service: why stopping can be the right outcome](https://hodigital.blog.gov.uk/2025/08/20/deciding-not-to-build-a-new-service-why-stopping-can-be-the-right-outcome/), a public government blog post showing evidence-based stop/go thinking.

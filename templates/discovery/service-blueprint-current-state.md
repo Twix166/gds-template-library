@@ -2,11 +2,11 @@
 title: Service blueprint current state
 phase: Discovery
 domain: Service Design
-status: placeholder
+status: draft
 related_service_standard_points:
   - Provide a joined-up experience
 owner_role: Service Designer
-last_updated: 2026-07-08
+last_updated: 2026-07-10
 ---
 
 # Purpose
@@ -26,7 +26,39 @@ Use when the team needs to understand the existing service before designing chan
 
 # Template
 
-Add stages, user actions, front-stage activity, back-stage activity, systems, data, policies and pain points.
+Copy this structure. A current-state blueprint should show how the service works today across channels, teams, systems and policies.
+
+## 1. Blueprint scope
+
+| Field | Response |
+| --- | --- |
+| User group or scenario |  |
+| Start point |  |
+| End point |  |
+| Channels included |  |
+| Evidence used |  |
+
+## 2. Current-state blueprint
+
+| Stage | User actions | Front-stage service touchpoints | Back-stage activity | Support processes | Systems and data | Policies or rules | Evidence | Fail points |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |
+
+## 3. Operational pain points
+
+| Pain point | Who is affected | Cause | Impact | Evidence | Opportunity |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+
+## 4. Dependencies and constraints
+
+| Dependency or constraint | Type | Owner | Impact on service | Hard or soft constraint | Follow-up action |
+| --- | --- | --- | --- | --- | --- |
+|  | Policy / process / technology / supplier / data |  |  | Hard / Soft |  |
+
+## Worked example
+
+See [journey-blueprint-and-stakeholders-worked-example.md](../../examples/discovery/journey-blueprint-and-stakeholders-worked-example.md).
 
 # Quality checklist
 
@@ -40,3 +72,8 @@ Add stages, user actions, front-stage activity, back-stage activity, systems, da
 - Dependency register
 - Technical architecture overview
 
+# Reference examples and sources
+
+- GOV.UK Service Manual, [Map and understand a user's whole problem](https://www.gov.uk/service-manual/design/map-a-users-whole-problem), credited to GOV.UK Service Manual contributors and published under the Open Government Licence v3.0.
+- Home Office Digital, [Service design at the Home Office](https://hodigital.blog.gov.uk/2016/04/27/service-design-at-the-home-office/), credited to Home Office Digital and published under the Open Government Licence v3.0.
+- Eliot Hill, [service-design-posters](https://github.com/eliothill/service-design-posters), public service design stage posters published under the Open Government Licence v3.0.
