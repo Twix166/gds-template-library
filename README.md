@@ -10,6 +10,8 @@ This repository is not provided, endorsed, approved or maintained by GDS or any 
 
 I created it primarily to help my own understanding of the GDS delivery framework, the Service Manual, the Service Standard and the kinds of evidence artefacts used across digital service delivery. It is shared publicly in case it is useful to others, but it should be treated as an independent learning and reference resource.
 
+This template library was created with assistance from Codex.
+
 ## What GDS is
 
 GDS means the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service). GDS is the digital centre of government and is part of the Department for Science, Innovation and Technology.
