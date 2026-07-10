@@ -4,6 +4,23 @@ This repository is a reusable, open-source template toolkit for UK government di
 
 It provides starting points for common delivery outputs and evidence artefacts used across the Discovery, Alpha, Beta and Live service lifecycle. The templates are designed to help teams work in line with the GDS Service Manual, Service Standard and good practice for user-centred, agile service delivery.
 
+## What GDS is
+
+GDS means the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service). GDS is the digital centre of government and is part of the Department for Science, Innovation and Technology.
+
+This repository is not an official GDS product. It is an open-source community toolkit that helps teams structure common delivery evidence in a way that is aligned with public GDS guidance.
+
+## Framework supported by this library
+
+The templates support the main public guidance and assurance framework used for UK government digital services:
+
+- [GOV.UK Service Manual](https://www.gov.uk/service-manual): guidance for teams creating and running public services.
+- [GOV.UK Service Standard](https://www.gov.uk/service-manual/service-standard): the 14-point standard for creating and running good public services.
+- [Service assessments](https://www.gov.uk/service-manual/service-assessments): assessment and assurance activity that checks whether services meet the Service Standard.
+- GDS delivery phases: Discovery, Alpha, Beta and Live.
+
+The artefacts in this repository are intended to help teams gather, structure and link evidence for those phases and Service Standard points. They do not replace the Service Manual, Service Standard, departmental governance, legal advice, security assurance, accessibility obligations or formal service assessment guidance.
+
 ## Who this is for
 
 The library is intended for multidisciplinary teams working in or around UK government digital services, including:
@@ -56,3 +73,19 @@ These templates are starting points, not mandatory GDS formats.
 They are intended to help teams produce clear, consistent and useful delivery evidence. Teams should adapt the structure, language and level of detail to their service context, user needs, delivery phase, organisational governance and assessment requirements.
 
 The Service Manual and Service Standard should remain the primary sources of guidance.
+
+## Attribution and source material
+
+This repository references and adapts ideas from public guidance and examples. Source material is credited in the relevant templates under `Reference examples and sources`.
+
+Primary public sources include:
+
+- [GOV.UK Service Manual](https://www.gov.uk/service-manual), credited to GOV.UK Service Manual contributors.
+- [GOV.UK Service Standard](https://www.gov.uk/service-manual/service-standard), credited to GOV.UK Service Manual contributors.
+- [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service), credited as the public body responsible for relevant GOV.UK digital guidance.
+- Public GOV.UK and departmental blog posts where referenced in individual templates.
+- Public specialist references where credited in individual templates, such as architecture decision record guidance and public sector accessibility, privacy or security guidance.
+
+GOV.UK content states that it is available under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) except where otherwise stated. The OGL requires acknowledgement of the source and does not permit use in a way that suggests official status or endorsement.
+
+This repository itself is licensed under the MIT Licence. That licence applies to original repository content. It does not override the licence terms of referenced third-party or public sector source material.
