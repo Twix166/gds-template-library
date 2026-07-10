@@ -8,7 +8,9 @@ It provides starting points for common delivery outputs and evidence artefacts u
 
 GDS means the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service). GDS is the digital centre of government and is part of the Department for Science, Innovation and Technology.
 
-This repository is not an official GDS product. It is an open-source community toolkit that helps teams structure common delivery evidence in a way that is aligned with public GDS guidance.
+This repository is not provided, endorsed, approved or maintained by GDS or any UK government department.
+
+I created it primarily to help my own understanding of the GDS delivery framework, the Service Manual, the Service Standard and the kinds of evidence artefacts used across digital service delivery. It is shared publicly in case it is useful to others, but it should be treated as an independent learning and reference resource.
 
 ## Framework supported by this library
 
