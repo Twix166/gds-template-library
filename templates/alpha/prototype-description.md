@@ -41,3 +41,6 @@ Add prototype scope, assumptions, user journeys, content, technical approach, te
 - User testing findings
 - MVP definition
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

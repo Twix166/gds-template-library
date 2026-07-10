@@ -31,19 +31,19 @@ Copy this structure. Link to evidence rather than duplicating it.
 
 ## 1. Assessment summary
 
-| Field | Response |
+| <abbr title="The name of the information item to complete.">Field</abbr> | <abbr title="The content to complete for the field.">Response</abbr> |
 | --- | --- |
-| Service name |  |
-| Phase | Discovery |
-| Assessment or review date |  |
+| <abbr title="The name of the service being assessed or documented.">Service name</abbr> |  |
+| <abbr title="The delivery phase the artefact relates to.">Phase</abbr> | Discovery |
+| <abbr title="The planned date of a service assessment, assurance review or internal checkpoint.">Assessment or review date</abbr> |  |
 | Service owner |  |
-| Product manager |  |
+| <abbr title="The product role accountable for value, scope and prioritisation.">Product manager</abbr> |  |
 | Delivery manager |  |
 | Evidence pack owner |  |
 
 ## 2. Service Standard evidence map
 
-| Service Standard point | Evidence artefacts | What the evidence shows | Gaps or risks | Owner |
+| <abbr title="The relevant point from the GOV.UK Service Standard.">Service Standard point</abbr> | <abbr title="Documents, notes, data or outputs that support a Service Standard point.">Evidence artefacts</abbr> | <abbr title="The conclusion supported by the linked evidence.">What the evidence shows</abbr> | <abbr title="Missing evidence or risks that should be addressed before relying on the artefact.">Gaps or risks</abbr> | <abbr title="The person or role accountable for the item.">Owner</abbr> |
 | --- | --- | --- | --- | --- |
 | Understand users and their needs |  |  |  |  |
 | Solve a whole problem for users |  |  |  |  |
@@ -62,7 +62,7 @@ Copy this structure. Link to evidence rather than duplicating it.
 
 ## 3. Key evidence links
 
-| Evidence | Link | Owner | Last updated |
+| <abbr title="The research, data, observation or source that supports the statement.">Evidence</abbr> | <abbr title="A URL or reference to the relevant evidence, artefact or source.">Link</abbr> | <abbr title="The person or role accountable for the item.">Owner</abbr> | <abbr title="The date the artefact or evidence was most recently reviewed or changed.">Last updated</abbr> |
 | --- | --- | --- | --- |
 | Problem statement |  |  |  |
 | User needs catalogue |  |  |  |
@@ -73,7 +73,7 @@ Copy this structure. Link to evidence rather than duplicating it.
 
 ## 4. Open actions before assessment
 
-| Action | Reason | Owner | Due date | Status |
+| <abbr title="The specific follow-up task needed to progress, validate or close an item.">Action</abbr> | <abbr title="Why the item exists, changed or is included.">Reason</abbr> | <abbr title="The person or role accountable for the item.">Owner</abbr> | <abbr title="The date by which an action, validation or follow-up should be completed.">Due date</abbr> | <abbr title="The current state of the item.">Status</abbr> |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 
@@ -102,3 +102,26 @@ See [findings-options-and-assessment-worked-example.md](../../examples/discovery
 - GOV.UK Service Standard, [Service Standard](https://www.gov.uk/service-manual/service-standard), credited to GOV.UK Service Manual contributors and published under the Open Government Licence v3.0.
 - GOV.UK Service Manual, [How the discovery phase works](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works), credited to the Agile delivery community and published under the Open Government Licence v3.0.
 - GOV.UK Service Manual, [User research in discovery](https://www.gov.uk/service-manual/user-research/user-research-in-discovery), credited to the User research community and published under the Open Government Licence v3.0.
+
+# Field glossary
+
+Hover over table headers, and some field-name cells, to see short definitions in renderers that support HTML title text.
+
+- **Action**: The specific follow-up task needed to progress, validate or close an item.
+- **Assessment or review date**: The planned date of a service assessment, assurance review or internal checkpoint.
+- **Due date**: The date by which an action, validation or follow-up should be completed.
+- **Evidence**: The research, data, observation or source that supports the statement.
+- **Evidence artefacts**: Documents, notes, data or outputs that support a Service Standard point.
+- **Field**: The name of the information item to complete.
+- **Gaps or risks**: Missing evidence or risks that should be addressed before relying on the artefact.
+- **Last updated**: The date the artefact or evidence was most recently reviewed or changed.
+- **Link**: A URL or reference to the relevant evidence, artefact or source.
+- **Owner**: The person or role accountable for the item.
+- **Phase**: The delivery phase the artefact relates to.
+- **Product manager**: The product role accountable for value, scope and prioritisation.
+- **Reason**: Why the item exists, changed or is included.
+- **Response**: The content to complete for the field.
+- **Service Standard point**: The relevant point from the GOV.UK Service Standard.
+- **Service name**: The name of the service being assessed or documented.
+- **Status**: The current state of the item.
+- **What the evidence shows**: The conclusion supported by the linked evidence.

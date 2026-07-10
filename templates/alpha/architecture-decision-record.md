@@ -41,3 +41,6 @@ Add status, context, decision, options, rationale, consequences, review date and
 - Decision log
 - Risk register
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

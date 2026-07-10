@@ -40,3 +40,6 @@ Add entity, field, definition, format, owner, source, sensitivity, retention, st
 - Technical architecture overview
 - Requirements catalogue
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

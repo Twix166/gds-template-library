@@ -40,3 +40,6 @@ Add objectives, scope, roadmap, release approach, roles, ceremonies, dependencie
 - Issue register
 - Dependency register
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

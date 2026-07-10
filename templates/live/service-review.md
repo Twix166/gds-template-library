@@ -40,3 +40,6 @@ Add performance summary, user insight, operational issues, risks, decisions, act
 - Risk register
 - Continual improvement plan
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

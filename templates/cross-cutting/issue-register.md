@@ -40,3 +40,6 @@ Add issue ID, description, impact, owner, action, due date, escalation route, st
 - Decision log
 - Dependency register
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

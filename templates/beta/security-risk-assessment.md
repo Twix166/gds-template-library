@@ -40,3 +40,6 @@ Add assets, threats, vulnerabilities, controls, likelihood, impact, residual ris
 - Privacy assessment
 - Non-functional requirements
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

@@ -40,3 +40,6 @@ Add data flows, personal data categories, lawful basis, risks, mitigations, rete
 - Security risk assessment
 - Risk register
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

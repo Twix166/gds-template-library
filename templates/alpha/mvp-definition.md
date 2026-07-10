@@ -41,3 +41,6 @@ Add outcomes, included scope, excluded scope, assumptions, measures, risks and r
 - Release plan
 - Benefits register
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

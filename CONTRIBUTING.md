@@ -41,7 +41,17 @@ They should include these sections:
 # Quality checklist
 
 # Related templates
+
+# Field glossary
 ```
+
+For templates with tables, table headers should use Markdown-compatible HTML hover text:
+
+```html
+<abbr title="A stable identifier used to track the item across documents.">ID</abbr>
+```
+
+Add a `Field glossary` at the end of the template that explains each table field in plain English. If a placeholder template does not yet contain structured tables, include a short note saying that field definitions should be added when the template is expanded.
 
 ## Status values
 

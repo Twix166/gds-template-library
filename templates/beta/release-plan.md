@@ -41,3 +41,6 @@ Add release scope, dates, environments, approvals, communications, monitoring, r
 - Support model
 - Incident management process
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

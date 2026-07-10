@@ -40,3 +40,6 @@ Add scope, standards considered, test methods, findings, severity, remediation, 
 - Test strategy
 - Beta assessment evidence pack
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

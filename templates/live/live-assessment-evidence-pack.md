@@ -41,3 +41,6 @@ Add evidence summary, links by Service Standard area, performance evidence, risk
 - Service review
 - Continual improvement plan
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

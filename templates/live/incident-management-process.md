@@ -40,3 +40,6 @@ Add incident types, severity levels, roles, response steps, communications, esca
 - Support model
 - Continual improvement plan
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

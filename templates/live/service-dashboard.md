@@ -40,3 +40,6 @@ Add measure, definition, data source, owner, frequency, target, trend and action
 - Benefits realisation report
 - Service review
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

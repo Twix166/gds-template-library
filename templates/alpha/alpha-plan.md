@@ -40,3 +40,6 @@ Add objectives, hypotheses, scope, roadmap, ceremonies, roles, risks, dependenci
 - Prototype description
 - Alpha assessment evidence pack
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

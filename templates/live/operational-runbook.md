@@ -40,3 +40,6 @@ Add procedure, trigger, steps, expected result, escalation, rollback and evidenc
 - Live service management plan
 - Operational readiness checklist
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

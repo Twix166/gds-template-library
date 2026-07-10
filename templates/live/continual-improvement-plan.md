@@ -40,3 +40,6 @@ Add improvement opportunity, evidence, priority, owner, expected outcome, effort
 - Benefits realisation report
 - Decision log
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

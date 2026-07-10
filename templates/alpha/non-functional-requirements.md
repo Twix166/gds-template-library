@@ -41,3 +41,6 @@ Add requirement, category, rationale, measure, priority, owner, evidence and acc
 - Security risk assessment
 - Operational readiness checklist
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

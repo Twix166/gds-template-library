@@ -19,17 +19,17 @@ By the end of Discovery, the team should be able to explain:
 
 ## Recommended artefacts
 
-| Stage of Discovery | Artefact | Purpose |
-| --- | --- | --- |
-| Start | [Problem statement](../../templates/discovery/problem-statement.md) | Reframe an initial brief or solution request as a problem to investigate. |
-| Start | [Stakeholder map](../../templates/discovery/stakeholder-map.md) | Identify who needs to contribute, decide or be kept informed. |
-| Research and analysis | [User needs catalogue](../../templates/discovery/user-needs-catalogue.md) | Record evidenced user needs and confidence levels. |
-| Research and analysis | [Current state journey map](../../templates/discovery/current-state-journey-map.md) | Show what users do now and where they experience pain. |
-| Research and analysis | [Service blueprint current state](../../templates/discovery/service-blueprint-current-state.md) | Show how current user journeys connect to teams, systems, data and policy. |
-| Throughout | [Assumptions log](../../templates/discovery/assumptions-log.md) | Track uncertainty and validation activity. |
-| End | [Options assessment](../../templates/discovery/options-assessment.md) | Compare possible next steps against evidence and constraints. |
-| End | [Discovery findings report](../../templates/discovery/discovery-findings-report.md) | Summarise what the team learned and recommend what to do next. |
-| Assessment preparation | [Discovery assessment evidence pack](../../templates/discovery/discovery-assessment-evidence-pack.md) | Link evidence to the Service Standard for review or assessment. |
+| Stage of Discovery | Artefact | What it is used for | How to use it | Referenced in GDS guidance |
+| --- | --- | --- | --- | --- |
+| Start | [Problem statement](../../templates/discovery/problem-statement.md) | Reframe an initial brief or solution request as a problem to investigate. | Complete early, then update as research changes the team's understanding. | [Discovery phase](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works); [Service Standard point 2](https://www.gov.uk/service-manual/service-standard/point-2-solve-a-whole-problem). |
+| Start | [Stakeholder map](../../templates/discovery/stakeholder-map.md) | Identify who needs to contribute, decide or be kept informed. | Use it to plan access to users, operations, policy and governance. | [Discovery phase](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works); [Service Standard point 6](https://www.gov.uk/service-manual/service-standard/point-6-have-a-multidisciplinary-team). |
+| Research and analysis | [User needs catalogue](../../templates/discovery/user-needs-catalogue.md) | Record evidenced user needs and confidence levels. | Add needs only when supported by research or service evidence. | [User research in discovery](https://www.gov.uk/service-manual/user-research/user-research-in-discovery); [Service Standard point 1](https://www.gov.uk/service-manual/service-standard/point-1-understand-user-needs). |
+| Research and analysis | [Current state journey map](../../templates/discovery/current-state-journey-map.md) | Show what users do now and where they experience pain. | Build it from research and service data, not team assumptions. | [Map a user's whole problem](https://www.gov.uk/service-manual/design/map-a-users-whole-problem); [Service Standard point 4](https://www.gov.uk/service-manual/service-standard/point-4-make-the-service-simple-to-use). |
+| Research and analysis | [Service blueprint current state](../../templates/discovery/service-blueprint-current-state.md) | Show how journeys connect to teams, systems, data and policy. | Use alongside the journey map to expose backstage causes and dependencies. | [Map a user's whole problem](https://www.gov.uk/service-manual/design/map-a-users-whole-problem); [Service Standard point 3](https://www.gov.uk/service-manual/service-standard/point-3-join-up-across-channels). |
+| Throughout | [Assumptions log](../../templates/discovery/assumptions-log.md) | Track uncertainty and validation activity. | Review weekly and test the riskiest assumptions before recommending next steps. | [Discovery phase](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works); [Service Standard point 8](https://www.gov.uk/service-manual/service-standard/point-8-iterate-and-improve-frequently). |
+| End | [Options assessment](../../templates/discovery/options-assessment.md) | Compare possible next steps against evidence and constraints. | Include stop, re-scope and non-build options as serious alternatives. | [Discovery phase](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works); [Service Standard point 11](https://www.gov.uk/service-manual/service-standard/point-11-choose-the-right-tools-and-technology). |
+| End | [Discovery findings report](../../templates/discovery/discovery-findings-report.md) | Summarise what the team learned and recommend what to do next. | Use it as the main narrative for phase-end governance and handover. | [Analyse research](https://www.gov.uk/service-manual/user-research/analyse-a-research-session); [Service Standard point 10](https://www.gov.uk/service-manual/service-standard/point-10-define-success-publish-performance-data). |
+| Assessment preparation | [Discovery assessment evidence pack](../../templates/discovery/discovery-assessment-evidence-pack.md) | Link evidence to the Service Standard for review or assessment. | Link to evidence rather than duplicating documents. | [Service Standard](https://www.gov.uk/service-manual/service-standard); [Service assessments](https://www.gov.uk/service-manual/service-assessments). |
 
 ## Suggested sequence
 
@@ -68,4 +68,3 @@ Before marking a Discovery template as `complete`, check that it:
 - credits public guidance or known good examples where relevant
 - separates evidence from assumptions and recommendations
 - avoids implying that the format is mandatory GDS guidance
-

@@ -40,3 +40,6 @@ Add dependency ID, description, provider, consumer, impact, date needed, owner, 
 - Beta delivery plan
 - Issue register
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

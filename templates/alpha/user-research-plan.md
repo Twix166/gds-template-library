@@ -40,3 +40,6 @@ Add objectives, questions, methods, participants, recruitment, schedule, consent
 - User testing findings
 - Accessibility assessment
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

@@ -40,3 +40,6 @@ Add benefit ID, description, type, owner, measure, baseline, target, evidence so
 - Benefits realisation report
 - Continual improvement plan
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

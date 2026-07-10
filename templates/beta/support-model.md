@@ -40,3 +40,6 @@ Add support scope, channels, hours, roles, escalation, service levels, reporting
 - Service dashboard
 - Continual improvement plan
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

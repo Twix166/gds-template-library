@@ -41,3 +41,6 @@ Add evidence summary, links by Service Standard area, learning outcomes, gaps, r
 - User testing findings
 - Technical architecture overview
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

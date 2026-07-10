@@ -41,3 +41,6 @@ Add evidence summary, links by Service Standard area, open issues, risks, decisi
 - Operational readiness checklist
 - Security risk assessment
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

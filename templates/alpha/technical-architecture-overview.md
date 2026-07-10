@@ -41,3 +41,6 @@ Add context, architecture view, components, integrations, data, hosting, securit
 - Non-functional requirements
 - Data dictionary
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

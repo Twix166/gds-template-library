@@ -40,3 +40,6 @@ Add decision ID, date, decision, context, options, rationale, owner, consequence
 - Assumptions log
 - Issue register
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

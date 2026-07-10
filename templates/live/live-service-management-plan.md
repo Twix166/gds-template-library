@@ -40,3 +40,6 @@ Add service scope, roles, governance, monitoring, support, reporting, risks and 
 - Operational runbook
 - Continual improvement plan
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

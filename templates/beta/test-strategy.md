@@ -40,3 +40,6 @@ Add test scope, levels, responsibilities, environments, data, automation, report
 - Non-functional requirements
 - Traceability matrix
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

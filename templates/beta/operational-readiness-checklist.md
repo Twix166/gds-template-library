@@ -40,3 +40,6 @@ Add readiness area, criteria, evidence, owner, status, risks and go-live decisio
 - Incident management process
 - Operational runbook
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

@@ -40,3 +40,6 @@ Add user need, requirement, design artefact, test evidence, decision, status and
 - Requirements catalogue
 - Test strategy
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.

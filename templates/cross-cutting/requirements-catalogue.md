@@ -40,3 +40,6 @@ Add requirement ID, description, type, source, priority, owner, status, acceptan
 - Business rules catalogue
 - Test strategy
 
+# Field glossary
+
+This template does not yet contain structured table fields. Add field definitions here when the template is expanded.
