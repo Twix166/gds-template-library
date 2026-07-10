@@ -37,21 +37,21 @@ Summarise the problem, what the team learned, and the recommended decision.
 
 | <abbr title="The name of the information item to complete.">Field</abbr> | <abbr title="The content to complete for the field.">Response</abbr> |
 | --- | --- |
-| <abbr title="The question or outcome the Discovery is trying to answer.">Discovery goal</abbr> |  |
-| <abbr title="The time period covered by the evidence or report.">Dates covered</abbr> |  |
-| <abbr title="The team or roles involved in the work.">Team</abbr> |  |
-| <abbr title="The research, analysis or delivery methods used.">Methods used</abbr> |  |
-| <abbr title="The parts of the wider service ecosystem covered by the report.">Services, channels or organisations included</abbr> |  |
+| <abbr title="The discovery goal recorded for this artefact.">Discovery goal</abbr> |  |
+| <abbr title="The dates covered recorded for this artefact.">Dates covered</abbr> |  |
+| <abbr title="The team recorded for this artefact.">Team</abbr> |  |
+| <abbr title="The methods used recorded for this artefact.">Methods used</abbr> |  |
+| <abbr title="The services, channels or organisations included recorded for this artefact.">Services, channels or organisations included</abbr> |  |
 
 ## 3. What we learned
 
-| <abbr title="A synthesised insight from evidence, not a single raw observation.">Finding</abbr> | <abbr title="The research, data, observation or source that supports the statement.">Evidence</abbr> | <abbr title="How strong the evidence is: low, medium or high.">Confidence</abbr> | <abbr title="What the finding means for the service or next phase.">Service implication</abbr> |
+| <abbr title="A synthesised insight from evidence, not a single raw observation.">Finding</abbr> | <abbr title="The research, data, observation or source that supports the statement.">Evidence</abbr> | <abbr title="How strong the evidence is: low, medium or high.">Confidence</abbr> | <abbr title="The service implication recorded for this artefact.">Service implication</abbr> |
 | --- | --- | --- | --- |
 |  |  | Low / Medium / High |  |
 
 ## 4. Users and needs
 
-| <abbr title="A group of users with shared needs or characteristics.">User group</abbr> | <abbr title="The most important evidenced needs for the user group.">Key needs</abbr> | <abbr title="The research, data, observation or source that supports the statement.">Evidence</abbr> | <abbr title="Known missing evidence, unanswered questions or weak areas.">Gaps</abbr> |
+| <abbr title="The user group recorded for this artefact.">User group</abbr> | <abbr title="The key needs recorded for this artefact.">Key needs</abbr> | <abbr title="The research, data, observation or source that supports the statement.">Evidence</abbr> | <abbr title="The gaps recorded for this artefact.">Gaps</abbr> |
 | --- | --- | --- | --- |
 |  |  |  |  |
 
@@ -67,7 +67,7 @@ Summarise the problem, what the team learned, and the recommended decision.
 
 ## 6. Options considered
 
-| <abbr title="A possible course of action.">Option</abbr> | <abbr title="A concise description of the evidence, option or finding.">Summary</abbr> | <abbr title="Expected positive outcomes or value from the option or change.">Benefits</abbr> | <abbr title="Uncertain events or conditions that could affect outcomes.">Risks</abbr> | <abbr title="The proposed next step based on evidence and trade-offs.">Recommendation</abbr> |
+| <abbr title="A possible course of action.">Option</abbr> | <abbr title="The summary recorded for this artefact.">Summary</abbr> | <abbr title="The expected advantages or positive outcomes of the option or decision.">Benefits</abbr> | <abbr title="Uncertain events or conditions that could affect outcomes.">Risks</abbr> | <abbr title="The proposed action or decision based on the finding.">Recommendation</abbr> |
 | --- | --- | --- | --- | --- |
 | Stop |  |  |  |  |
 | Continue to Alpha |  |  |  |  |
@@ -79,13 +79,13 @@ State whether to proceed to Alpha, stop, re-scope, or hand findings to another t
 
 ## 8. Candidate success measures
 
-| <abbr title="A metric or indicator used to judge performance or success.">Measure</abbr> | <abbr title="Why the item is important for users, service outcomes or decisions.">Why it matters</abbr> | <abbr title="The current measure or starting point used to compare future change.">Current baseline</abbr> | <abbr title="How the measure or evidence will be gathered.">How to collect</abbr> |
+| <abbr title="A metric or indicator used to judge performance or success.">Measure</abbr> | <abbr title="Why the item is important for users, service outcomes or decisions.">Why it matters</abbr> | <abbr title="The current baseline recorded for this artefact.">Current baseline</abbr> | <abbr title="The how to collect recorded for this artefact.">How to collect</abbr> |
 | --- | --- | --- | --- |
 |  |  |  |  |
 
 ## 9. Open risks, assumptions and questions
 
-| <abbr title="The category of item being recorded.">Type</abbr> | <abbr title="A concise explanation of the item.">Description</abbr> | <abbr title="The person or role accountable for the item.">Owner</abbr> | <abbr title="The immediate action needed to progress the item.">Next action</abbr> |
+| <abbr title="The type recorded for this artefact.">Type</abbr> | <abbr title="The description recorded for this artefact.">Description</abbr> | <abbr title="The person or role accountable for the item.">Owner</abbr> | <abbr title="The immediate action needed to progress the item.">Next action</abbr> |
 | --- | --- | --- | --- |
 | Risk / Assumption / Question |  |  |  |
 
@@ -116,32 +116,32 @@ See [findings-options-and-assessment-worked-example.md](../../examples/discovery
 Hover over table headers, and some field-name cells, to see short definitions in renderers that support HTML title text.
 
 - **Area**: The part of the service, organisation or delivery context this row relates to.
-- **Benefits**: Expected positive outcomes or value from the option or change.
+- **Benefits**: The expected advantages or positive outcomes of the option or decision.
 - **Confidence**: How strong the evidence is: low, medium or high.
 - **Constraint or opportunity**: A limitation to work within or a potential improvement to explore.
-- **Current baseline**: The current measure or starting point used to compare future change.
-- **Dates covered**: The time period covered by the evidence or report.
-- **Description**: A concise explanation of the item.
-- **Discovery goal**: The question or outcome the Discovery is trying to answer.
+- **Current baseline**: The current baseline recorded for this artefact.
+- **Dates covered**: The dates covered recorded for this artefact.
+- **Description**: The description recorded for this artefact.
+- **Discovery goal**: The discovery goal recorded for this artefact.
 - **Evidence**: The research, data, observation or source that supports the statement.
 - **Field**: The name of the information item to complete.
 - **Finding**: A synthesised insight from evidence, not a single raw observation.
-- **Gaps**: Known missing evidence, unanswered questions or weak areas.
-- **How to collect**: How the measure or evidence will be gathered.
+- **Gaps**: The gaps recorded for this artefact.
+- **How to collect**: The how to collect recorded for this artefact.
 - **Impact**: The effect on users, operations, policy, delivery or technology.
-- **Key needs**: The most important evidenced needs for the user group.
+- **Key needs**: The key needs recorded for this artefact.
 - **Measure**: A metric or indicator used to judge performance or success.
-- **Methods used**: The research, analysis or delivery methods used.
+- **Methods used**: The methods used recorded for this artefact.
 - **Next action**: The immediate action needed to progress the item.
 - **Option**: A possible course of action.
 - **Owner**: The person or role accountable for the item.
-- **Recommendation**: The proposed next step based on evidence and trade-offs.
+- **Recommendation**: The proposed action or decision based on the finding.
 - **Response**: The content to complete for the field.
 - **Risks**: Uncertain events or conditions that could affect outcomes.
-- **Service implication**: What the finding means for the service or next phase.
-- **Services, channels or organisations included**: The parts of the wider service ecosystem covered by the report.
-- **Summary**: A concise description of the evidence, option or finding.
-- **Team**: The team or roles involved in the work.
-- **Type**: The category of item being recorded.
-- **User group**: A group of users with shared needs or characteristics.
+- **Service implication**: The service implication recorded for this artefact.
+- **Services, channels or organisations included**: The services, channels or organisations included recorded for this artefact.
+- **Summary**: The summary recorded for this artefact.
+- **Team**: The team recorded for this artefact.
+- **Type**: The type recorded for this artefact.
+- **User group**: The user group recorded for this artefact.
 - **Why it matters**: Why the item is important for users, service outcomes or decisions.

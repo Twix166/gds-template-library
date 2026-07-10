@@ -11,32 +11,32 @@
 | Assumptions log | Discovery | Delivery management | Track assumptions, evidence gaps and validation plans. | Iterate and improve frequently | draft |
 | Options assessment | Discovery | Product management | Compare options against user, policy, technical and delivery criteria. | Solve a whole problem for users; Choose appropriate tools and technology | draft |
 | Discovery assessment evidence pack | Discovery | Assessment preparation | Bring together evidence for discovery assessment or internal review. | Understand users and their needs; Have a multidisciplinary team | draft |
-| Alpha plan | Alpha | Delivery management | Plan alpha objectives, scope, activities and governance. | Use agile ways of working | placeholder |
-| Prototype description | Alpha | Service design | Describe prototype scope, assumptions and learning goals. | Make the service simple to use; Iterate and improve frequently | placeholder |
-| User research plan | Alpha | User research | Plan research questions, participants, methods and ethics. | Understand users and their needs | placeholder |
-| User testing findings | Alpha | User research | Summarise prototype testing findings and design implications. | Iterate and improve frequently | placeholder |
-| MVP definition | Alpha | Product management | Define the minimum viable service and rationale. | Solve a whole problem for users; Define success measures | placeholder |
-| Technical architecture overview | Alpha | Architecture | Describe proposed technical architecture and key trade-offs. | Choose appropriate tools and technology | placeholder |
-| Architecture decision record | Alpha | Architecture | Record important architecture decisions and their consequences. | Choose appropriate tools and technology | placeholder |
-| Non-functional requirements | Alpha | Architecture | Capture performance, resilience, security, accessibility and support needs. | Create a secure service; Operate a reliable service | placeholder |
-| Alpha assessment evidence pack | Alpha | Assessment preparation | Bring together evidence for alpha assessment or internal review. | Use agile ways of working; Iterate and improve frequently | placeholder |
-| Beta delivery plan | Beta | Delivery management | Plan beta delivery, releases, dependencies and governance. | Use agile ways of working | placeholder |
-| Release plan | Beta | Delivery management | Plan release approach, environments, communications and rollback. | Operate a reliable service | placeholder |
-| Test strategy | Beta | Quality assurance | Define test scope, approach, responsibilities and evidence. | Operate a reliable service | placeholder |
-| Accessibility assessment | Beta | Accessibility | Assess accessibility risks, evidence, issues and remediation. | Make sure everyone can use the service | placeholder |
-| Privacy assessment | Beta | Privacy | Assess personal data use, privacy risks and mitigations. | Create a secure service | placeholder |
-| Security risk assessment | Beta | Security | Assess threats, vulnerabilities, controls and residual risks. | Create a secure service | placeholder |
-| Operational readiness checklist | Beta | Operations | Check that service, team and support arrangements are ready. | Operate a reliable service | placeholder |
-| Support model | Beta | Operations | Define support channels, roles, service levels and escalation routes. | Operate a reliable service | placeholder |
-| Beta assessment evidence pack | Beta | Assessment preparation | Bring together evidence for beta assessment or internal review. | Make sure everyone can use the service; Operate a reliable service | placeholder |
-| Live service management plan | Live | Operations | Define how the live service will be managed and improved. | Operate a reliable service | placeholder |
-| Service dashboard | Live | Product management | Define measures, data sources and reporting for live service health. | Define success measures | placeholder |
-| Incident management process | Live | Operations | Define incident detection, response, communication and review. | Operate a reliable service | placeholder |
-| Operational runbook | Live | Operations | Provide operational procedures for common support and maintenance tasks. | Operate a reliable service | placeholder |
-| Service review | Live | Governance | Review service performance, risks, issues and improvement priorities. | Iterate and improve frequently | placeholder |
-| Continual improvement plan | Live | Product management | Plan ongoing improvements based on evidence and priorities. | Iterate and improve frequently | placeholder |
-| Benefits realisation report | Live | Product management | Track realised benefits against the original case and measures. | Define success measures | placeholder |
-| Live assessment evidence pack | Live | Assessment preparation | Bring together evidence for live assessment or internal review. | Operate a reliable service; Iterate and improve frequently | placeholder |
+| Alpha plan | Alpha | Delivery management | Plan alpha objectives, scope, activities and governance. | Use agile ways of working | draft |
+| Prototype description | Alpha | Service design | Describe prototype scope, assumptions and learning goals. | Make the service simple to use; Iterate and improve frequently | draft |
+| User research plan | Alpha | User research | Plan research questions, participants, methods and ethics. | Understand users and their needs | draft |
+| User testing findings | Alpha | User research | Summarise prototype testing findings and design implications. | Iterate and improve frequently | draft |
+| MVP definition | Alpha | Product management | Define the minimum viable service and rationale. | Solve a whole problem for users; Define success measures | draft |
+| Technical architecture overview | Alpha | Architecture | Describe proposed technical architecture and key trade-offs. | Choose appropriate tools and technology | draft |
+| Architecture decision record | Alpha | Architecture | Record important architecture decisions and their consequences. | Choose appropriate tools and technology | draft |
+| Non-functional requirements | Alpha | Architecture | Capture performance, resilience, security, accessibility and support needs. | Create a secure service; Operate a reliable service | draft |
+| Alpha assessment evidence pack | Alpha | Assessment preparation | Bring together evidence for alpha assessment or internal review. | Use agile ways of working; Iterate and improve frequently | draft |
+| Beta delivery plan | Beta | Delivery management | Plan beta delivery, releases, dependencies and governance. | Use agile ways of working | draft |
+| Release plan | Beta | Delivery management | Plan release approach, environments, communications and rollback. | Operate a reliable service | draft |
+| Test strategy | Beta | Quality assurance | Define test scope, approach, responsibilities and evidence. | Operate a reliable service | draft |
+| Accessibility assessment | Beta | Accessibility | Assess accessibility risks, evidence, issues and remediation. | Make sure everyone can use the service | draft |
+| Privacy assessment | Beta | Privacy | Assess personal data use, privacy risks and mitigations. | Create a secure service | draft |
+| Security risk assessment | Beta | Security | Assess threats, vulnerabilities, controls and residual risks. | Create a secure service | draft |
+| Operational readiness checklist | Beta | Operations | Check that service, team and support arrangements are ready. | Operate a reliable service | draft |
+| Support model | Beta | Operations | Define support channels, roles, service levels and escalation routes. | Operate a reliable service | draft |
+| Beta assessment evidence pack | Beta | Assessment preparation | Bring together evidence for beta assessment or internal review. | Make sure everyone can use the service; Operate a reliable service | draft |
+| Live service management plan | Live | Operations | Define how the live service will be managed and improved. | Operate a reliable service | draft |
+| Service dashboard | Live | Product management | Define measures, data sources and reporting for live service health. | Define success measures | draft |
+| Incident management process | Live | Operations | Define incident detection, response, communication and review. | Operate a reliable service | draft |
+| Operational runbook | Live | Operations | Provide operational procedures for common support and maintenance tasks. | Operate a reliable service | draft |
+| Service review | Live | Governance | Review service performance, risks, issues and improvement priorities. | Iterate and improve frequently | draft |
+| Continual improvement plan | Live | Product management | Plan ongoing improvements based on evidence and priorities. | Iterate and improve frequently | draft |
+| Benefits realisation report | Live | Product management | Track realised benefits against the original case and measures. | Define success measures | draft |
+| Live assessment evidence pack | Live | Assessment preparation | Bring together evidence for live assessment or internal review. | Operate a reliable service; Iterate and improve frequently | draft |
 | Requirements catalogue | Cross-cutting | Business analysis | Record functional, non-functional and policy requirements. | Solve a whole problem for users | placeholder |
 | Business rules catalogue | Cross-cutting | Business analysis | Record business rules, sources, owners and decisions. | Make the service simple to use | placeholder |
 | Risk register | Cross-cutting | Governance | Track risks, owners, mitigations and review dates. | Create a secure service; Operate a reliable service | placeholder |

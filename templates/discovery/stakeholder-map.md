@@ -31,25 +31,25 @@ Copy this structure and update it as stakeholders change. Include delivery, poli
 
 ## 1. Stakeholder summary
 
-| <abbr title="A person, team or organisation with an interest in or influence over the service.">Stakeholder</abbr> | <abbr title="The organisation, department, supplier or team the stakeholder belongs to.">Organisation or team</abbr> | <abbr title="How the stakeholder participates in, operates or is affected by the service.">Role in service</abbr> | <abbr title="What the stakeholder cares about or needs from the work.">Interest or need</abbr> | <abbr title="How much ability the stakeholder has to shape, approve or block work.">Influence</abbr> | <abbr title="How much the stakeholder or group is likely to be affected by service change.">Impacted by change</abbr> | <abbr title="How the team will involve or communicate with this stakeholder.">Engagement approach</abbr> | <abbr title="The person or role accountable for the item.">Owner</abbr> |
+| <abbr title="The stakeholder recorded for this artefact.">Stakeholder</abbr> | <abbr title="The organisation or team recorded for this artefact.">Organisation or team</abbr> | <abbr title="The role in service recorded for this artefact.">Role in service</abbr> | <abbr title="The interest or need recorded for this artefact.">Interest or need</abbr> | <abbr title="The influence recorded for this artefact.">Influence</abbr> | <abbr title="The impacted by change recorded for this artefact.">Impacted by change</abbr> | <abbr title="The engagement approach recorded for this artefact.">Engagement approach</abbr> | <abbr title="The person or role accountable for the item.">Owner</abbr> |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  | High / Medium / Low | High / Medium / Low |  |  |
 
 ## 2. Decision rights
 
-| <abbr title="The subject area where a decision is needed.">Decision area</abbr> | <abbr title="The person or group accountable for making the decision.">Decision maker</abbr> | <abbr title="People or groups who should input to a decision but may not own it.">Contributors</abbr> | <abbr title="The forum, board or process used to make or approve a decision.">Governance route</abbr> | <abbr title="The latest date by which the decision or action is needed.">Deadline</abbr> |
+| <abbr title="The decision area recorded for this artefact.">Decision area</abbr> | <abbr title="The decision maker recorded for this artefact.">Decision maker</abbr> | <abbr title="The contributors recorded for this artefact.">Contributors</abbr> | <abbr title="The governance route recorded for this artefact.">Governance route</abbr> | <abbr title="The deadline recorded for this artefact.">Deadline</abbr> |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 
 ## 3. Engagement plan
 
-| <abbr title="A person, team or organisation with an interest in or influence over the service.">Stakeholder</abbr> | <abbr title="Information, involvement or decisions the stakeholder needs from the Discovery.">What they need from Discovery</abbr> | <abbr title="Input, access, decisions or evidence the team needs from the stakeholder.">What the team needs from them</abbr> | <abbr title="How often engagement, review or communication should happen.">Cadence</abbr> | <abbr title="The immediate action needed to progress the item.">Next action</abbr> |
+| <abbr title="The stakeholder recorded for this artefact.">Stakeholder</abbr> | <abbr title="The what they need from discovery recorded for this artefact.">What they need from Discovery</abbr> | <abbr title="The what the team needs from them recorded for this artefact.">What the team needs from them</abbr> | <abbr title="How often the activity, review or communication happens.">Cadence</abbr> | <abbr title="The immediate action needed to progress the item.">Next action</abbr> |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 
 ## 4. Risks and tensions
 
-| <abbr title="The stakeholder, team or user group affected by the concern.">Stakeholder or group</abbr> | <abbr title="A stakeholder concern, conflict or unresolved tension that may affect the work.">Concern or tension</abbr> | <abbr title="The effect on users, operations, policy, delivery or technology.">Impact</abbr> | <abbr title="The action planned to reduce a risk, issue or concern.">Mitigation</abbr> | <abbr title="The person or role accountable for the item.">Owner</abbr> |
+| <abbr title="The stakeholder or group recorded for this artefact.">Stakeholder or group</abbr> | <abbr title="The concern or tension recorded for this artefact.">Concern or tension</abbr> | <abbr title="The effect on users, operations, policy, delivery or technology.">Impact</abbr> | <abbr title="The action or control used to reduce impact or likelihood.">Mitigation</abbr> | <abbr title="The person or role accountable for the item.">Owner</abbr> |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 
@@ -79,24 +79,24 @@ See [journey-blueprint-and-stakeholders-worked-example.md](../../examples/discov
 
 Hover over table headers, and some field-name cells, to see short definitions in renderers that support HTML title text.
 
-- **Cadence**: How often engagement, review or communication should happen.
-- **Concern or tension**: A stakeholder concern, conflict or unresolved tension that may affect the work.
-- **Contributors**: People or groups who should input to a decision but may not own it.
-- **Deadline**: The latest date by which the decision or action is needed.
-- **Decision area**: The subject area where a decision is needed.
-- **Decision maker**: The person or group accountable for making the decision.
-- **Engagement approach**: How the team will involve or communicate with this stakeholder.
-- **Governance route**: The forum, board or process used to make or approve a decision.
+- **Cadence**: How often the activity, review or communication happens.
+- **Concern or tension**: The concern or tension recorded for this artefact.
+- **Contributors**: The contributors recorded for this artefact.
+- **Deadline**: The deadline recorded for this artefact.
+- **Decision area**: The decision area recorded for this artefact.
+- **Decision maker**: The decision maker recorded for this artefact.
+- **Engagement approach**: The engagement approach recorded for this artefact.
+- **Governance route**: The governance route recorded for this artefact.
 - **Impact**: The effect on users, operations, policy, delivery or technology.
-- **Impacted by change**: How much the stakeholder or group is likely to be affected by service change.
-- **Influence**: How much ability the stakeholder has to shape, approve or block work.
-- **Interest or need**: What the stakeholder cares about or needs from the work.
-- **Mitigation**: The action planned to reduce a risk, issue or concern.
+- **Impacted by change**: The impacted by change recorded for this artefact.
+- **Influence**: The influence recorded for this artefact.
+- **Interest or need**: The interest or need recorded for this artefact.
+- **Mitigation**: The action or control used to reduce impact or likelihood.
 - **Next action**: The immediate action needed to progress the item.
-- **Organisation or team**: The organisation, department, supplier or team the stakeholder belongs to.
+- **Organisation or team**: The organisation or team recorded for this artefact.
 - **Owner**: The person or role accountable for the item.
-- **Role in service**: How the stakeholder participates in, operates or is affected by the service.
-- **Stakeholder**: A person, team or organisation with an interest in or influence over the service.
-- **Stakeholder or group**: The stakeholder, team or user group affected by the concern.
-- **What the team needs from them**: Input, access, decisions or evidence the team needs from the stakeholder.
-- **What they need from Discovery**: Information, involvement or decisions the stakeholder needs from the Discovery.
+- **Role in service**: The role in service recorded for this artefact.
+- **Stakeholder**: The stakeholder recorded for this artefact.
+- **Stakeholder or group**: The stakeholder or group recorded for this artefact.
+- **What the team needs from them**: The what the team needs from them recorded for this artefact.
+- **What they need from Discovery**: The what they need from discovery recorded for this artefact.

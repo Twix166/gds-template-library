@@ -30,25 +30,25 @@ Copy this structure. Use it to make uncertainty visible and decide what to test 
 
 ## 1. Assumptions log
 
-| <abbr title="A stable identifier used to track the item across documents.">ID</abbr> | <abbr title="Something the team currently believes to be true but has not yet fully evidenced.">Assumption</abbr> | <abbr title="The part of the service, organisation or delivery context this row relates to.">Area</abbr> | <abbr title="Why the item is important for users, service outcomes or decisions.">Why it matters</abbr> | <abbr title="What could happen if the assumption is false.">Risk if wrong</abbr> | <abbr title="How strong the evidence is: low, medium or high.">Confidence</abbr> | <abbr title="The method the team will use to validate or invalidate the assumption.">How to test</abbr> | <abbr title="The person or role accountable for the item.">Owner</abbr> | <abbr title="The date by which an action, validation or follow-up should be completed.">Due date</abbr> | <abbr title="The current state of the item.">Status</abbr> | <abbr title="The result or change the team wants to achieve.">Outcome</abbr> |
+| <abbr title="A stable identifier used to track the item across documents.">ID</abbr> | <abbr title="Something the team currently believes to be true but has not yet fully evidenced.">Assumption</abbr> | <abbr title="The part of the service, organisation or delivery context this row relates to.">Area</abbr> | <abbr title="Why the item is important for users, service outcomes or decisions.">Why it matters</abbr> | <abbr title="The risk if wrong recorded for this artefact.">Risk if wrong</abbr> | <abbr title="How strong the evidence is: low, medium or high.">Confidence</abbr> | <abbr title="The method the team will use to validate or invalidate the hypothesis.">How to test</abbr> | <abbr title="The person or role accountable for the item.">Owner</abbr> | <abbr title="The date by which an action or condition should be completed.">Due date</abbr> | <abbr title="The current state of the item.">Status</abbr> | <abbr title="The result or change the team wants to achieve.">Outcome</abbr> |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A-001 |  | User / policy / operational / technical / data |  |  | Low / Medium / High |  |  |  | Open / Testing / Validated / Invalidated |  |
 
 ## 2. Riskiest assumptions
 
-| <abbr title="A unique identifier used to track an assumption across templates and decisions.">Assumption ID</abbr> | <abbr title="Why the assumption could materially affect the work if wrong.">Reason it is high risk</abbr> | <abbr title="The decision that could change if the assumption proves wrong.">Decision it affects</abbr> | <abbr title="Whether the assumption must be tested before recommending Alpha.">Test needed before Alpha?</abbr> |
+| <abbr title="The assumption id recorded for this artefact.">Assumption ID</abbr> | <abbr title="The reason it is high risk recorded for this artefact.">Reason it is high risk</abbr> | <abbr title="The decision it affects recorded for this artefact.">Decision it affects</abbr> | <abbr title="The test needed before alpha? recorded for this artefact.">Test needed before Alpha?</abbr> |
 | --- | --- | --- | --- |
 |  |  |  | Yes / No |
 
 ## 3. Assumption test plan
 
-| <abbr title="A unique identifier used to track an assumption across templates and decisions.">Assumption ID</abbr> | <abbr title="The validation method, such as interview, prototype test, data analysis or spike.">Test method</abbr> | <abbr title="The users, staff, datasets or evidence needed to run a test.">Participants or data needed</abbr> | <abbr title="What would show whether a test validates or invalidates an assumption.">Success or failure signal</abbr> | <abbr title="A link or reference to the evidence source.">Evidence link</abbr> |
+| <abbr title="The assumption id recorded for this artefact.">Assumption ID</abbr> | <abbr title="The test method recorded for this artefact.">Test method</abbr> | <abbr title="The participants or data needed recorded for this artefact.">Participants or data needed</abbr> | <abbr title="The success or failure signal recorded for this artefact.">Success or failure signal</abbr> | <abbr title="A link to the evidence supporting the entry.">Evidence link</abbr> |
 | --- | --- | --- | --- | --- |
 |  | Interview / prototype / data analysis / technical spike / policy check |  |  |  |
 
 ## 4. Closed assumptions
 
-| <abbr title="A unique identifier used to track an assumption across templates and decisions.">Assumption ID</abbr> | <abbr title="The outcome of a validation, test, decision or action.">Result</abbr> | <abbr title="The research, data, observation or source that supports the statement.">Evidence</abbr> | <abbr title="The decision made after validation, or the next action needed.">Decision or follow-up</abbr> |
+| <abbr title="The assumption id recorded for this artefact.">Assumption ID</abbr> | <abbr title="The outcome of an assessment, test or measure.">Result</abbr> | <abbr title="The research, data, observation or source that supports the statement.">Evidence</abbr> | <abbr title="The decision or follow-up recorded for this artefact.">Decision or follow-up</abbr> |
 | --- | --- | --- | --- |
 |  | Validated / Invalidated / Still unknown |  |  |
 
@@ -80,23 +80,23 @@ Hover over table headers, and some field-name cells, to see short definitions in
 
 - **Area**: The part of the service, organisation or delivery context this row relates to.
 - **Assumption**: Something the team currently believes to be true but has not yet fully evidenced.
-- **Assumption ID**: A unique identifier used to track an assumption across templates and decisions.
+- **Assumption ID**: The assumption id recorded for this artefact.
 - **Confidence**: How strong the evidence is: low, medium or high.
-- **Decision it affects**: The decision that could change if the assumption proves wrong.
-- **Decision or follow-up**: The decision made after validation, or the next action needed.
-- **Due date**: The date by which an action, validation or follow-up should be completed.
+- **Decision it affects**: The decision it affects recorded for this artefact.
+- **Decision or follow-up**: The decision or follow-up recorded for this artefact.
+- **Due date**: The date by which an action or condition should be completed.
 - **Evidence**: The research, data, observation or source that supports the statement.
-- **Evidence link**: A link or reference to the evidence source.
-- **How to test**: The method the team will use to validate or invalidate the assumption.
+- **Evidence link**: A link to the evidence supporting the entry.
+- **How to test**: The method the team will use to validate or invalidate the hypothesis.
 - **ID**: A stable identifier used to track the item across documents.
 - **Outcome**: The result or change the team wants to achieve.
 - **Owner**: The person or role accountable for the item.
-- **Participants or data needed**: The users, staff, datasets or evidence needed to run a test.
-- **Reason it is high risk**: Why the assumption could materially affect the work if wrong.
-- **Result**: The outcome of a validation, test, decision or action.
-- **Risk if wrong**: What could happen if the assumption is false.
+- **Participants or data needed**: The participants or data needed recorded for this artefact.
+- **Reason it is high risk**: The reason it is high risk recorded for this artefact.
+- **Result**: The outcome of an assessment, test or measure.
+- **Risk if wrong**: The risk if wrong recorded for this artefact.
 - **Status**: The current state of the item.
-- **Success or failure signal**: What would show whether a test validates or invalidates an assumption.
-- **Test method**: The validation method, such as interview, prototype test, data analysis or spike.
-- **Test needed before Alpha?**: Whether the assumption must be tested before recommending Alpha.
+- **Success or failure signal**: The success or failure signal recorded for this artefact.
+- **Test method**: The test method recorded for this artefact.
+- **Test needed before Alpha?**: The test needed before alpha? recorded for this artefact.
 - **Why it matters**: Why the item is important for users, service outcomes or decisions.

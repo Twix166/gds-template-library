@@ -32,28 +32,28 @@ Copy this structure. Keep the journey from the user's point of view and show whe
 
 | <abbr title="The name of the information item to complete.">Field</abbr> | <abbr title="The content to complete for the field.">Response</abbr> |
 | --- | --- |
-| <abbr title="The user group or persona represented by the journey.">User group or persona</abbr> |  |
-| <abbr title="What the user is trying to achieve.">User goal</abbr> |  |
-| <abbr title="Where the journey, blueprint or scenario begins.">Start point</abbr> |  |
-| <abbr title="Where the journey, blueprint or scenario stops.">End point</abbr> |  |
-| <abbr title="The channels included in the scope of the artefact.">Channels included</abbr> |  |
-| <abbr title="Research findings, notes or data used to support the artefact.">Research evidence</abbr> |  |
+| <abbr title="The user group or persona recorded for this artefact.">User group or persona</abbr> |  |
+| <abbr title="The user goal recorded for this artefact.">User goal</abbr> |  |
+| <abbr title="The start point recorded for this artefact.">Start point</abbr> |  |
+| <abbr title="The end point recorded for this artefact.">End point</abbr> |  |
+| <abbr title="The channels included recorded for this artefact.">Channels included</abbr> |  |
+| <abbr title="The research evidence recorded for this artefact.">Research evidence</abbr> |  |
 
 ## 2. Journey map
 
-| <abbr title="A step or phase in the user journey or service process.">Stage</abbr> | <abbr title="What the user is trying to achieve.">User goal</abbr> | <abbr title="What users do at this stage of the journey.">User actions</abbr> | <abbr title="The channels and specific interactions a user has with the service.">Channels and touchpoints</abbr> | <abbr title="Problems, frustrations or avoidable burdens experienced by users.">Pain points</abbr> | <abbr title="Questions users have, or feelings they experience, at this journey stage.">Questions or emotions</abbr> | <abbr title="The research, data, observation or source that supports the statement.">Evidence</abbr> | <abbr title="A theme or part of the journey where improvement may be valuable.">Opportunity area</abbr> |
+| <abbr title="A step or phase in the journey or process.">Stage</abbr> | <abbr title="The user goal recorded for this artefact.">User goal</abbr> | <abbr title="The user actions recorded for this artefact.">User actions</abbr> | <abbr title="The channels and touchpoints recorded for this artefact.">Channels and touchpoints</abbr> | <abbr title="The pain points recorded for this artefact.">Pain points</abbr> | <abbr title="The questions or emotions recorded for this artefact.">Questions or emotions</abbr> | <abbr title="The research, data, observation or source that supports the statement.">Evidence</abbr> | <abbr title="The opportunity area recorded for this artefact.">Opportunity area</abbr> |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |  |
 
 ## 3. Moments that matter
 
-| <abbr title="An important point in the journey that strongly affects user experience or service outcome.">Moment</abbr> | <abbr title="Why the item is important for users, service outcomes or decisions.">Why it matters</abbr> | <abbr title="What currently goes wrong or could go wrong for users or the service.">Current failure or risk</abbr> | <abbr title="The research, data, observation or source that supports the statement.">Evidence</abbr> | <abbr title="What the finding means for the design of the service or next experiment.">Design implication</abbr> |
+| <abbr title="The moment recorded for this artefact.">Moment</abbr> | <abbr title="Why the item is important for users, service outcomes or decisions.">Why it matters</abbr> | <abbr title="The current failure or risk recorded for this artefact.">Current failure or risk</abbr> | <abbr title="The research, data, observation or source that supports the statement.">Evidence</abbr> | <abbr title="The design implication recorded for this artefact.">Design implication</abbr> |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 
 ## 4. Cross-channel issues
 
-| <abbr title="A current problem that needs action, unlike a risk which may happen in future.">Issue</abbr> | <abbr title="The service channels affected, such as online, phone, post, face to face or assisted digital.">Channels affected</abbr> | <abbr title="The effect on users.">User impact</abbr> | <abbr title="The effect on staff, support, processes, cost or service reliability.">Operational impact</abbr> | <abbr title="The next action needed after recording the item.">Follow-up</abbr> |
+| <abbr title="A current problem that needs action.">Issue</abbr> | <abbr title="The channels affected recorded for this artefact.">Channels affected</abbr> | <abbr title="How the issue affects users.">User impact</abbr> | <abbr title="The operational impact recorded for this artefact.">Operational impact</abbr> | <abbr title="The follow-up recorded for this artefact.">Follow-up</abbr> |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 
@@ -83,27 +83,27 @@ See [journey-blueprint-and-stakeholders-worked-example.md](../../examples/discov
 
 Hover over table headers, and some field-name cells, to see short definitions in renderers that support HTML title text.
 
-- **Channels affected**: The service channels affected, such as online, phone, post, face to face or assisted digital.
-- **Channels and touchpoints**: The channels and specific interactions a user has with the service.
-- **Channels included**: The channels included in the scope of the artefact.
-- **Current failure or risk**: What currently goes wrong or could go wrong for users or the service.
-- **Design implication**: What the finding means for the design of the service or next experiment.
-- **End point**: Where the journey, blueprint or scenario stops.
+- **Channels affected**: The channels affected recorded for this artefact.
+- **Channels and touchpoints**: The channels and touchpoints recorded for this artefact.
+- **Channels included**: The channels included recorded for this artefact.
+- **Current failure or risk**: The current failure or risk recorded for this artefact.
+- **Design implication**: The design implication recorded for this artefact.
+- **End point**: The end point recorded for this artefact.
 - **Evidence**: The research, data, observation or source that supports the statement.
 - **Field**: The name of the information item to complete.
-- **Follow-up**: The next action needed after recording the item.
-- **Issue**: A current problem that needs action, unlike a risk which may happen in future.
-- **Moment**: An important point in the journey that strongly affects user experience or service outcome.
-- **Operational impact**: The effect on staff, support, processes, cost or service reliability.
-- **Opportunity area**: A theme or part of the journey where improvement may be valuable.
-- **Pain points**: Problems, frustrations or avoidable burdens experienced by users.
-- **Questions or emotions**: Questions users have, or feelings they experience, at this journey stage.
-- **Research evidence**: Research findings, notes or data used to support the artefact.
+- **Follow-up**: The follow-up recorded for this artefact.
+- **Issue**: A current problem that needs action.
+- **Moment**: The moment recorded for this artefact.
+- **Operational impact**: The operational impact recorded for this artefact.
+- **Opportunity area**: The opportunity area recorded for this artefact.
+- **Pain points**: The pain points recorded for this artefact.
+- **Questions or emotions**: The questions or emotions recorded for this artefact.
+- **Research evidence**: The research evidence recorded for this artefact.
 - **Response**: The content to complete for the field.
-- **Stage**: A step or phase in the user journey or service process.
-- **Start point**: Where the journey, blueprint or scenario begins.
-- **User actions**: What users do at this stage of the journey.
-- **User goal**: What the user is trying to achieve.
-- **User group or persona**: The user group or persona represented by the journey.
-- **User impact**: The effect on users.
+- **Stage**: A step or phase in the journey or process.
+- **Start point**: The start point recorded for this artefact.
+- **User actions**: The user actions recorded for this artefact.
+- **User goal**: The user goal recorded for this artefact.
+- **User group or persona**: The user group or persona recorded for this artefact.
+- **User impact**: How the issue affects users.
 - **Why it matters**: Why the item is important for users, service outcomes or decisions.

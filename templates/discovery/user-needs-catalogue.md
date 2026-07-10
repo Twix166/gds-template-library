@@ -30,31 +30,31 @@ Copy this structure and add one row for each evidenced need. Do not record stake
 
 ## 1. Research coverage
 
-| <abbr title="A group of users with shared needs or characteristics.">User group</abbr> | <abbr title="Research activity already carried out for this user group or topic.">Research completed</abbr> | <abbr title="Where the evidence came from.">Evidence source</abbr> | <abbr title="Known missing evidence or user groups still to research.">Known gaps</abbr> |
+| <abbr title="The user group recorded for this artefact.">User group</abbr> | <abbr title="The research completed recorded for this artefact.">Research completed</abbr> | <abbr title="The evidence source recorded for this artefact.">Evidence source</abbr> | <abbr title="The known gaps recorded for this artefact.">Known gaps</abbr> |
 | --- | --- | --- | --- |
 |  |  |  |  |
 
 ## 2. User needs catalogue
 
-| <abbr title="A stable identifier used to track the item across documents.">ID</abbr> | <abbr title="A group of users with shared needs or characteristics.">User group</abbr> | <abbr title="An evidenced need describing what users need to do or understand.">User need</abbr> | <abbr title="Why the item is important for users, service outcomes or decisions.">Why this matters</abbr> | <abbr title="The research, data, observation or source that supports the statement.">Evidence</abbr> | <abbr title="The relative importance of the item for decision-making or delivery.">Priority</abbr> | <abbr title="How strong the evidence is: low, medium or high.">Confidence</abbr> | <abbr title="Other templates or documents connected to the item.">Related artefacts</abbr> |
+| <abbr title="A stable identifier used to track the item across documents.">ID</abbr> | <abbr title="The user group recorded for this artefact.">User group</abbr> | <abbr title="The user need recorded for this artefact.">User need</abbr> | <abbr title="The why this matters recorded for this artefact.">Why this matters</abbr> | <abbr title="The research, data, observation or source that supports the statement.">Evidence</abbr> | <abbr title="The relative importance of the item.">Priority</abbr> | <abbr title="How strong the evidence is: low, medium or high.">Confidence</abbr> | <abbr title="The related artefacts recorded for this artefact.">Related artefacts</abbr> |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | UN-001 |  | As a ..., I need to ..., so that ... |  |  | High / Medium / Low | High / Medium / Low |  |
 
 ## 3. Evidence notes
 
-| <abbr title="A unique identifier for a piece or group of evidence.">Evidence ID</abbr> | <abbr title="The kind of evidence, such as interview, analytics, observation or support data.">Evidence type</abbr> | <abbr title="A concise description of the evidence, option or finding.">Summary</abbr> | <abbr title="Where the evidence or artefact can be found.">Link or location</abbr> | <abbr title="The date the evidence, change, action or entry was recorded.">Date</abbr> |
+| <abbr title="The evidence id recorded for this artefact.">Evidence ID</abbr> | <abbr title="The kind of evidence reviewed, such as audit, test or research.">Evidence type</abbr> | <abbr title="The summary recorded for this artefact.">Summary</abbr> | <abbr title="The link or location recorded for this artefact.">Link or location</abbr> | <abbr title="The date the item was recorded or changed.">Date</abbr> |
 | --- | --- | --- | --- | --- |
 | E-001 | Interview / analytics / support data / observation |  |  |  |
 
 ## 4. Needs not yet evidenced
 
-| <abbr title="A possible user need that has not yet been evidenced strongly enough.">Candidate need</abbr> | <abbr title="Where the information came from.">Source</abbr> | <abbr title="What could happen if the item is not investigated or addressed.">Risk if ignored</abbr> | <abbr title="How the team will test whether a candidate need, assumption or risk is valid.">Validation plan</abbr> | <abbr title="The person or role accountable for the item.">Owner</abbr> |
+| <abbr title="The candidate need recorded for this artefact.">Candidate need</abbr> | <abbr title="Where the data or evidence comes from.">Source</abbr> | <abbr title="The risk if ignored recorded for this artefact.">Risk if ignored</abbr> | <abbr title="The validation plan recorded for this artefact.">Validation plan</abbr> | <abbr title="The person or role accountable for the item.">Owner</abbr> |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 
 ## 5. Changes to user needs
 
-| <abbr title="The date the evidence, change, action or entry was recorded.">Date</abbr> | <abbr title="The unique identifier for a user need.">Need ID</abbr> | <abbr title="What was changed in the artefact, need, decision or record.">Change made</abbr> | <abbr title="Why the item exists, changed or is included.">Reason</abbr> | <abbr title="The person accountable for making or confirming the decision.">Decision owner</abbr> |
+| <abbr title="The date the item was recorded or changed.">Date</abbr> | <abbr title="The need id recorded for this artefact.">Need ID</abbr> | <abbr title="What changed in this version or review.">Change made</abbr> | <abbr title="Why the item is included, excluded, changed or recommended.">Reason</abbr> | <abbr title="The person accountable for making or confirming the decision.">Decision owner</abbr> |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 
@@ -84,28 +84,28 @@ See [problem-and-user-needs-worked-example.md](../../examples/discovery/problem-
 
 Hover over table headers, and some field-name cells, to see short definitions in renderers that support HTML title text.
 
-- **Candidate need**: A possible user need that has not yet been evidenced strongly enough.
-- **Change made**: What was changed in the artefact, need, decision or record.
+- **Candidate need**: The candidate need recorded for this artefact.
+- **Change made**: What changed in this version or review.
 - **Confidence**: How strong the evidence is: low, medium or high.
-- **Date**: The date the evidence, change, action or entry was recorded.
+- **Date**: The date the item was recorded or changed.
 - **Decision owner**: The person accountable for making or confirming the decision.
 - **Evidence**: The research, data, observation or source that supports the statement.
-- **Evidence ID**: A unique identifier for a piece or group of evidence.
-- **Evidence source**: Where the evidence came from.
-- **Evidence type**: The kind of evidence, such as interview, analytics, observation or support data.
+- **Evidence ID**: The evidence id recorded for this artefact.
+- **Evidence source**: The evidence source recorded for this artefact.
+- **Evidence type**: The kind of evidence reviewed, such as audit, test or research.
 - **ID**: A stable identifier used to track the item across documents.
-- **Known gaps**: Known missing evidence or user groups still to research.
-- **Link or location**: Where the evidence or artefact can be found.
-- **Need ID**: The unique identifier for a user need.
+- **Known gaps**: The known gaps recorded for this artefact.
+- **Link or location**: The link or location recorded for this artefact.
+- **Need ID**: The need id recorded for this artefact.
 - **Owner**: The person or role accountable for the item.
-- **Priority**: The relative importance of the item for decision-making or delivery.
-- **Reason**: Why the item exists, changed or is included.
-- **Related artefacts**: Other templates or documents connected to the item.
-- **Research completed**: Research activity already carried out for this user group or topic.
-- **Risk if ignored**: What could happen if the item is not investigated or addressed.
-- **Source**: Where the information came from.
-- **Summary**: A concise description of the evidence, option or finding.
-- **User group**: A group of users with shared needs or characteristics.
-- **User need**: An evidenced need describing what users need to do or understand.
-- **Validation plan**: How the team will test whether a candidate need, assumption or risk is valid.
-- **Why this matters**: Why the item is important for users, service outcomes or decisions.
+- **Priority**: The relative importance of the item.
+- **Reason**: Why the item is included, excluded, changed or recommended.
+- **Related artefacts**: The related artefacts recorded for this artefact.
+- **Research completed**: The research completed recorded for this artefact.
+- **Risk if ignored**: The risk if ignored recorded for this artefact.
+- **Source**: Where the data or evidence comes from.
+- **Summary**: The summary recorded for this artefact.
+- **User group**: The user group recorded for this artefact.
+- **User need**: The user need recorded for this artefact.
+- **Validation plan**: The validation plan recorded for this artefact.
+- **Why this matters**: The why this matters recorded for this artefact.

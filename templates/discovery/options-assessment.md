@@ -33,14 +33,14 @@ Copy this structure. Include non-build options and stopping where relevant.
 
 | <abbr title="The name of the information item to complete.">Field</abbr> | <abbr title="The content to complete for the field.">Response</abbr> |
 | --- | --- |
-| <abbr title="The decision this artefact is intended to support.">Decision needed</abbr> |  |
-| <abbr title="The date by which a decision is required.">Date decision needed</abbr> |  |
+| <abbr title="The decision required to move the item forward.">Decision needed</abbr> |  |
+| <abbr title="The date decision needed recorded for this artefact.">Date decision needed</abbr> |  |
 | <abbr title="The person accountable for making or confirming the decision.">Decision owner</abbr> |  |
-| <abbr title="The set of evidence used to make or support a decision.">Evidence base</abbr> |  |
+| <abbr title="The evidence base recorded for this artefact.">Evidence base</abbr> |  |
 
 ## 2. Options considered
 
-| <abbr title="A possible course of action.">Option</abbr> | <abbr title="A concise explanation of the item.">Description</abbr> | <abbr title="The expected value for users.">User value</abbr> | <abbr title="The expected value for service operations or staff.">Operational value</abbr> | <abbr title="How realistic the option is given technical, policy, operational and delivery constraints.">Feasibility</abbr> | <abbr title="The expected relative cost, time, complexity or team effort required.">Cost and effort</abbr> | <abbr title="Uncertain events or conditions that could affect outcomes.">Risks</abbr> | <abbr title="Other teams, systems, suppliers, decisions or events the work depends on.">Dependencies</abbr> | <abbr title="The research, data, observation or source that supports the statement.">Evidence</abbr> | <abbr title="The proposed next step based on evidence and trade-offs.">Recommendation</abbr> |
+| <abbr title="A possible course of action.">Option</abbr> | <abbr title="The description recorded for this artefact.">Description</abbr> | <abbr title="The expected value for users.">User value</abbr> | <abbr title="The operational value recorded for this artefact.">Operational value</abbr> | <abbr title="The feasibility recorded for this artefact.">Feasibility</abbr> | <abbr title="The cost and effort recorded for this artefact.">Cost and effort</abbr> | <abbr title="Uncertain events or conditions that could affect outcomes.">Risks</abbr> | <abbr title="Other teams, systems, suppliers, decisions or events the work depends on.">Dependencies</abbr> | <abbr title="The research, data, observation or source that supports the statement.">Evidence</abbr> | <abbr title="The proposed action or decision based on the finding.">Recommendation</abbr> |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Stop after Discovery |  |  |  |  |  |  |  |  |  |
 | Proceed to Alpha |  |  |  |  |  |  |  |  |  |
@@ -49,7 +49,7 @@ Copy this structure. Include non-build options and stopping where relevant.
 
 ## 3. Assessment criteria
 
-| <abbr title="A factor used to compare or assess options.">Criterion</abbr> | <abbr title="The relative importance of the criterion in the assessment.">Weighting</abbr> | <abbr title="Why the item is important for users, service outcomes or decisions.">Why it matters</abbr> |
+| <abbr title="The criterion recorded for this artefact.">Criterion</abbr> | <abbr title="The weighting recorded for this artefact.">Weighting</abbr> | <abbr title="Why the item is important for users, service outcomes or decisions.">Why it matters</abbr> |
 | --- | --- | --- |
 | Meets evidenced user needs | High / Medium / Low |  |
 | Solves the whole problem | High / Medium / Low |  |
@@ -64,7 +64,7 @@ Write the recommended option, rationale, trade-offs and conditions for moving fo
 
 ## 5. Next actions
 
-| <abbr title="The specific follow-up task needed to progress, validate or close an item.">Action</abbr> | <abbr title="The person or role accountable for the item.">Owner</abbr> | <abbr title="The date by which an action, validation or follow-up should be completed.">Due date</abbr> | <abbr title="The risk or assumption that the action relates to.">Linked risk or assumption</abbr> |
+| <abbr title="The specific follow-up task needed to progress, validate or close an item.">Action</abbr> | <abbr title="The person or role accountable for the item.">Owner</abbr> | <abbr title="The date by which an action or condition should be completed.">Due date</abbr> | <abbr title="The linked risk or assumption recorded for this artefact.">Linked risk or assumption</abbr> |
 | --- | --- | --- | --- |
 |  |  |  |  |
 
@@ -95,25 +95,25 @@ See [findings-options-and-assessment-worked-example.md](../../examples/discovery
 Hover over table headers, and some field-name cells, to see short definitions in renderers that support HTML title text.
 
 - **Action**: The specific follow-up task needed to progress, validate or close an item.
-- **Cost and effort**: The expected relative cost, time, complexity or team effort required.
-- **Criterion**: A factor used to compare or assess options.
-- **Date decision needed**: The date by which a decision is required.
-- **Decision needed**: The decision this artefact is intended to support.
+- **Cost and effort**: The cost and effort recorded for this artefact.
+- **Criterion**: The criterion recorded for this artefact.
+- **Date decision needed**: The date decision needed recorded for this artefact.
+- **Decision needed**: The decision required to move the item forward.
 - **Decision owner**: The person accountable for making or confirming the decision.
 - **Dependencies**: Other teams, systems, suppliers, decisions or events the work depends on.
-- **Description**: A concise explanation of the item.
-- **Due date**: The date by which an action, validation or follow-up should be completed.
+- **Description**: The description recorded for this artefact.
+- **Due date**: The date by which an action or condition should be completed.
 - **Evidence**: The research, data, observation or source that supports the statement.
-- **Evidence base**: The set of evidence used to make or support a decision.
-- **Feasibility**: How realistic the option is given technical, policy, operational and delivery constraints.
+- **Evidence base**: The evidence base recorded for this artefact.
+- **Feasibility**: The feasibility recorded for this artefact.
 - **Field**: The name of the information item to complete.
-- **Linked risk or assumption**: The risk or assumption that the action relates to.
-- **Operational value**: The expected value for service operations or staff.
+- **Linked risk or assumption**: The linked risk or assumption recorded for this artefact.
+- **Operational value**: The operational value recorded for this artefact.
 - **Option**: A possible course of action.
 - **Owner**: The person or role accountable for the item.
-- **Recommendation**: The proposed next step based on evidence and trade-offs.
+- **Recommendation**: The proposed action or decision based on the finding.
 - **Response**: The content to complete for the field.
 - **Risks**: Uncertain events or conditions that could affect outcomes.
 - **User value**: The expected value for users.
-- **Weighting**: The relative importance of the criterion in the assessment.
+- **Weighting**: The weighting recorded for this artefact.
 - **Why it matters**: Why the item is important for users, service outcomes or decisions.

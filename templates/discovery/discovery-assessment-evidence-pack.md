@@ -33,17 +33,17 @@ Copy this structure. Link to evidence rather than duplicating it.
 
 | <abbr title="The name of the information item to complete.">Field</abbr> | <abbr title="The content to complete for the field.">Response</abbr> |
 | --- | --- |
-| <abbr title="The name of the service being assessed or documented.">Service name</abbr> |  |
+| <abbr title="The name of the service being documented.">Service name</abbr> |  |
 | <abbr title="The delivery phase the artefact relates to.">Phase</abbr> | Discovery |
-| <abbr title="The planned date of a service assessment, assurance review or internal checkpoint.">Assessment or review date</abbr> |  |
-| Service owner |  |
-| <abbr title="The product role accountable for value, scope and prioritisation.">Product manager</abbr> |  |
-| Delivery manager |  |
-| Evidence pack owner |  |
+| <abbr title="The date of the assessment, assurance review or internal checkpoint.">Assessment or review date</abbr> |  |
+| <abbr title="The person accountable for the service.">Service owner</abbr> |  |
+| <abbr title="The product manager recorded for this artefact.">Product manager</abbr> |  |
+| <abbr title="The delivery manager recorded for this artefact.">Delivery manager</abbr> |  |
+| <abbr title="The person accountable for maintaining the evidence pack.">Evidence pack owner</abbr> |  |
 
 ## 2. Service Standard evidence map
 
-| <abbr title="The relevant point from the GOV.UK Service Standard.">Service Standard point</abbr> | <abbr title="Documents, notes, data or outputs that support a Service Standard point.">Evidence artefacts</abbr> | <abbr title="The conclusion supported by the linked evidence.">What the evidence shows</abbr> | <abbr title="Missing evidence or risks that should be addressed before relying on the artefact.">Gaps or risks</abbr> | <abbr title="The person or role accountable for the item.">Owner</abbr> |
+| <abbr title="The relevant point from the GOV.UK Service Standard.">Service Standard point</abbr> | <abbr title="Documents, data, research notes or outputs that support the Service Standard point.">Evidence artefacts</abbr> | <abbr title="The conclusion supported by linked evidence.">What the evidence shows</abbr> | <abbr title="Missing evidence or risks that should be addressed before relying on the artefact.">Gaps or risks</abbr> | <abbr title="The person or role accountable for the item.">Owner</abbr> |
 | --- | --- | --- | --- | --- |
 | Understand users and their needs |  |  |  |  |
 | Solve a whole problem for users |  |  |  |  |
@@ -62,7 +62,7 @@ Copy this structure. Link to evidence rather than duplicating it.
 
 ## 3. Key evidence links
 
-| <abbr title="The research, data, observation or source that supports the statement.">Evidence</abbr> | <abbr title="A URL or reference to the relevant evidence, artefact or source.">Link</abbr> | <abbr title="The person or role accountable for the item.">Owner</abbr> | <abbr title="The date the artefact or evidence was most recently reviewed or changed.">Last updated</abbr> |
+| <abbr title="The research, data, observation or source that supports the statement.">Evidence</abbr> | <abbr title="A URL or reference to evidence, artefact or source.">Link</abbr> | <abbr title="The person or role accountable for the item.">Owner</abbr> | <abbr title="The last updated recorded for this artefact.">Last updated</abbr> |
 | --- | --- | --- | --- |
 | Problem statement |  |  |  |
 | User needs catalogue |  |  |  |
@@ -73,7 +73,7 @@ Copy this structure. Link to evidence rather than duplicating it.
 
 ## 4. Open actions before assessment
 
-| <abbr title="The specific follow-up task needed to progress, validate or close an item.">Action</abbr> | <abbr title="Why the item exists, changed or is included.">Reason</abbr> | <abbr title="The person or role accountable for the item.">Owner</abbr> | <abbr title="The date by which an action, validation or follow-up should be completed.">Due date</abbr> | <abbr title="The current state of the item.">Status</abbr> |
+| <abbr title="The specific follow-up task needed to progress, validate or close an item.">Action</abbr> | <abbr title="Why the item is included, excluded, changed or recommended.">Reason</abbr> | <abbr title="The person or role accountable for the item.">Owner</abbr> | <abbr title="The date by which an action or condition should be completed.">Due date</abbr> | <abbr title="The current state of the item.">Status</abbr> |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 
@@ -108,20 +108,23 @@ See [findings-options-and-assessment-worked-example.md](../../examples/discovery
 Hover over table headers, and some field-name cells, to see short definitions in renderers that support HTML title text.
 
 - **Action**: The specific follow-up task needed to progress, validate or close an item.
-- **Assessment or review date**: The planned date of a service assessment, assurance review or internal checkpoint.
-- **Due date**: The date by which an action, validation or follow-up should be completed.
+- **Assessment or review date**: The date of the assessment, assurance review or internal checkpoint.
+- **Delivery manager**: The delivery manager recorded for this artefact.
+- **Due date**: The date by which an action or condition should be completed.
 - **Evidence**: The research, data, observation or source that supports the statement.
-- **Evidence artefacts**: Documents, notes, data or outputs that support a Service Standard point.
+- **Evidence artefacts**: Documents, data, research notes or outputs that support the Service Standard point.
+- **Evidence pack owner**: The person accountable for maintaining the evidence pack.
 - **Field**: The name of the information item to complete.
 - **Gaps or risks**: Missing evidence or risks that should be addressed before relying on the artefact.
-- **Last updated**: The date the artefact or evidence was most recently reviewed or changed.
-- **Link**: A URL or reference to the relevant evidence, artefact or source.
+- **Last updated**: The last updated recorded for this artefact.
+- **Link**: A URL or reference to evidence, artefact or source.
 - **Owner**: The person or role accountable for the item.
 - **Phase**: The delivery phase the artefact relates to.
-- **Product manager**: The product role accountable for value, scope and prioritisation.
-- **Reason**: Why the item exists, changed or is included.
+- **Product manager**: The product manager recorded for this artefact.
+- **Reason**: Why the item is included, excluded, changed or recommended.
 - **Response**: The content to complete for the field.
 - **Service Standard point**: The relevant point from the GOV.UK Service Standard.
-- **Service name**: The name of the service being assessed or documented.
+- **Service name**: The name of the service being documented.
+- **Service owner**: The person accountable for the service.
 - **Status**: The current state of the item.
-- **What the evidence shows**: The conclusion supported by the linked evidence.
+- **What the evidence shows**: The conclusion supported by linked evidence.
