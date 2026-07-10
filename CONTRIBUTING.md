@@ -61,3 +61,32 @@ Before proposing a change, check that it:
 - can be adapted across departments and services
 - does not imply that there is a single mandatory GDS format
 
+## Referencing public examples and guidance
+
+Templates should credit public guidance, examples and source material when those sources influenced the template shape.
+
+Use a `Reference examples and sources` section for phase templates. Include:
+
+- title of the source
+- author, team, department or organisation where available
+- link to the source
+- licence or reuse note where clear
+- a short explanation of why the source is relevant
+
+Prefer primary public sources such as GOV.UK Service Manual pages, GOV.UK blog posts, public repositories and published assessment or assurance material.
+
+Do not copy large sections of source material. Summarise, link and credit instead.
+
+For GOV.UK and GOV.UK blog content, check the footer or page metadata. Most content is available under the Open Government Licence v3.0 unless otherwise stated, but some images, logos or third-party material may be excluded.
+
+Do not include sensitive, unpublished or internal government material in examples. Worked examples should be fictional unless the source is explicitly public and reusable.
+
+## Worked examples
+
+Worked examples should:
+
+- use realistic but fictional services unless based on clearly public material
+- avoid personal data, operational secrets and live case details
+- show the expected level of detail for a usable artefact
+- match the structure of the related template
+- state clearly that they are examples, not mandatory formats

@@ -2,6 +2,10 @@
 
 This fictional example is for a Discovery into helping people renew a Blue Badge.
 
+## Scenario context
+
+This example completes the fictional Blue Badge renewal Discovery. It uses evidence from the [problem and user needs example](problem-and-user-needs-worked-example.md) and the [journey, blueprint and stakeholder example](journey-blueprint-and-stakeholders-worked-example.md) to show how a team might reach a recommendation.
+
 ## Assumptions log
 
 | ID | Assumption | Why it matters | Risk if wrong | How to test | Owner | Status |
@@ -25,6 +29,15 @@ This fictional example is for a Discovery into helping people renew a Blue Badge
 
 Renewal problems appear to be caused by a combination of unclear timing, unclear evidence expectations and limited confidence during the waiting period. The team recommends an Alpha to test clearer renewal content, evidence prompts and status communication before committing to build.
 
+### Discovery scope
+
+| Area | Example |
+| --- | --- |
+| Discovery goal | Understand whether renewal problems are best solved by a new digital feature, better content, operational change or a combination. |
+| Methods | User interviews, staff interviews, support data review, content review, journey mapping, service blueprinting. |
+| Included | Renewal awareness, evidence guidance, submission routes, waiting for an outcome. |
+| Excluded | Eligibility policy reform, badge enforcement, full technical design. |
+
 ### Key findings
 
 | Finding | Evidence | Implication |
@@ -37,6 +50,15 @@ Renewal problems appear to be caused by a combination of unclear timing, unclear
 
 Proceed to Alpha to test whether a clearer renewal journey can reduce avoidable contact and improve confidence for badge holders, carers and caseworkers.
 
+### Candidate success measures
+
+| Measure | Baseline needed | Why it matters |
+| --- | --- | --- |
+| Percentage of renewal applications with complete evidence | Current completion rate by council | Shows whether evidence guidance improves application quality. |
+| Contact rate about renewal timing or evidence | Current contact centre categories | Shows whether users understand what to do without avoidable support. |
+| User confidence after reviewing renewal guidance | Alpha prototype research baseline | Shows whether users understand next steps. |
+| Average time from renewal submission to decision | Current operational data | Shows whether better evidence reduces caseworker rework. |
+
 ## Discovery assessment evidence pack
 
 | Service Standard area | Evidence link | What it shows | Gaps or actions |
@@ -48,3 +70,17 @@ Proceed to Alpha to test whether a clearer renewal journey can reduce avoidable 
 | Make sure everyone can use the service | Research plan, accessibility notes | Known access and assisted digital risks | Recruit users with access needs in Alpha. |
 | Define success measures | Findings report, options assessment | Candidate measures for Alpha and Beta | Confirm baselines. |
 
+## Handover notes for Alpha
+
+| Topic | Alpha question |
+| --- | --- |
+| Reminder timing and wording | Can clearer prompts help users start renewal early enough? |
+| Evidence guidance | Can examples and checks reduce incomplete evidence? |
+| Waiting period | Can better expectation-setting reduce avoidable chasing without building a full tracker? |
+| Inclusion | What support do users with low digital confidence or access needs require? |
+
+## How to adapt this example
+
+- Replace fictional evidence with links to your team's artefacts.
+- Include stop, re-scope and non-build options as serious alternatives.
+- Make the recommendation conditional where evidence is still incomplete.

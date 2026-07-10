@@ -2,6 +2,15 @@
 
 This fictional example is for a Discovery into helping people renew a Blue Badge. It is not based on a live service team and should be adapted before use.
 
+## Scenario context
+
+The team has been asked to explore whether a better renewal journey could reduce avoidable contact and help eligible people renew before their badge expires. Early stakeholder conversations suggested a solution of "build an online renewal tracker", but the Discovery team has deliberately reframed this as a problem to investigate.
+
+This example connects to:
+
+- [Journey map, service blueprint and stakeholder map](journey-blueprint-and-stakeholders-worked-example.md)
+- [Discovery findings, options and assessment evidence](findings-options-and-assessment-worked-example.md)
+
 ## Problem statement
 
 | Field | Example |
@@ -27,10 +36,18 @@ This fictional example is for a Discovery into helping people renew a Blue Badge
 | UN-003 | Caseworker | I need evidence to be complete and relevant so that I can make a decision without unnecessary contact. | Interviews with 4 council staff; review of anonymised rejected applications. | High | Medium | May require better guidance and upload prompts. |
 | UN-004 | Badge holder with low digital confidence | I need a non-digital route or support so that I can renew even if I cannot use the online service. | 3 users relied on family or phone support; accessibility and assisted digital risk. | High | Low | Needs targeted research with digitally excluded users. |
 
+## Evidence references used in this fictional example
+
+| Evidence ID | Evidence type | Summary | Used by |
+| --- | --- | --- | --- |
+| E-001 | User interviews | 8 badge holders described renewal timing, evidence and support needs. | Problem statement, user needs, journey map. |
+| E-002 | Staff interviews | 4 council staff described common evidence problems and avoidable contact. | User needs, blueprint, options assessment. |
+| E-003 | Support data review | Contact centre themes showed renewal timing, expired badge and evidence queries. | Problem statement, findings report. |
+| E-004 | Content review | Existing letters and web guidance used inconsistent language about timing and evidence. | Journey map, findings report. |
+
 ## How to adapt this example
 
 - Replace the fictional service and evidence with your own.
 - Keep evidence and assumptions separate.
 - Use plain language that a stakeholder outside the team can understand.
 - Link needs to research notes, analytics, operational data or policy evidence.
-

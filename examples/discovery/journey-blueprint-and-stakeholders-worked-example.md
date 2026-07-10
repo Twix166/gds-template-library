@@ -2,6 +2,10 @@
 
 This fictional example is for a Discovery into helping people renew a Blue Badge. It shows the level of structure expected in the Discovery templates.
 
+## Scenario context
+
+This example builds on the [problem statement and user needs catalogue](problem-and-user-needs-worked-example.md). It shows how the team turns research evidence into a current-state journey, a service blueprint and a stakeholder map.
+
 ## Current state journey map
 
 | Stage | User goal | User actions | Channels | Pain points | Evidence | Opportunity |
@@ -33,3 +37,16 @@ This fictional example is for a Discovery into helping people renew a Blue Badge
 | Policy team | Own eligibility policy | Ensure policy intent is preserved | High | Fortnightly check-in, decision review | Product Manager |
 | Accessibility lead | Assurance and inclusion | Ensure disabled users are considered from Discovery | Medium | Review findings and research plan | Delivery Manager |
 
+## Issues to carry into the assumptions log
+
+| Issue | Why it matters | Suggested assumption or risk |
+| --- | --- | --- |
+| Reminder letters may not reach users at the right time. | Renewal timing affects whether users lose access before a decision. | We assume reminder timing and wording can be changed without major policy or system change. |
+| Evidence guidance differs between channels. | Users may submit incomplete or irrelevant evidence. | We assume clearer evidence examples will reduce avoidable contact. |
+| Some users rely on phone, paper or family support. | A digital-only improvement may exclude users. | We assume assisted digital and non-digital support must remain part of the service. |
+
+## How to adapt this example
+
+- Replace the fictional journey stages with stages observed in your research.
+- Add offline and support channels, not just digital screens.
+- Keep the journey map focused on user experience and the blueprint focused on service delivery.
