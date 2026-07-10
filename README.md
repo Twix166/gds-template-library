@@ -41,6 +41,8 @@ Use `template-index.md` to find templates by phase, domain and purpose. Use `ser
 
 ## How to use the templates
 
+Start with [GDS Templates 101](docs/gds-templates-101.md) for a short walkthrough of when documents are usually started across Discovery, Alpha, Beta and Live.
+
 1. Find the template that best matches the artefact you need.
 2. Copy it into your service team workspace or repository.
 3. Complete only the sections that are useful for your context.
@@ -54,4 +56,3 @@ These templates are starting points, not mandatory GDS formats.
 They are intended to help teams produce clear, consistent and useful delivery evidence. Teams should adapt the structure, language and level of detail to their service context, user needs, delivery phase, organisational governance and assessment requirements.
 
 The Service Manual and Service Standard should remain the primary sources of guidance.
-
